@@ -3,14 +3,14 @@
     "name": "Cataclysm",
     "author": "Ggb0y",
     "creators": ["Ggb0y"],
-    "verifier": "CurtaGD",
-    "verification": "https://youtu.be/WbQ-KYQex1g",
+    "verifier": "AlfieGMD",
+    "verification": "https://www.youtube.com/watch?v=cWOFeQ--xck",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Alfie",
-            "link": "https://www.youtube.com/watch?v=cWOFeQ--xck",
+            "user": "CurtaGD",
+            "link": "https://youtu.be/WbQ-KYQex1g",
             "percent": 100,
             "hz": 30
         },
