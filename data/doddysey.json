@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "693041",
     "records": [
+        {
+            "user": "Drag0n43",
+            "link": "https://www.google.com/",
+            "percent": 100,
+            "hz": 3
+        }
     ]
 }
