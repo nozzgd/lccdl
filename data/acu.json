@@ -13,6 +13,11 @@
             "link": "https://www.youtube.com/watch?v=mpU3N6TI2j8",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Drag0n43",
+            "link": "https://google.com/",
+            "percent": 100,
+            "hz": 3
         }
     ]
-}
