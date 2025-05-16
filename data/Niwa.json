@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Emmber09",
+            "link": "https://youtu.be/0svga1LZXM0?si=uEcWA6syJRV-YEo2",
+            "percent": 100,
+            "hz": 100
+        }
     ]
 }
