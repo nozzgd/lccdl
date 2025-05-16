@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "nozz",
+            "link": "https://www.youtube.com/watch?v=mpU3N6TI2j8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
