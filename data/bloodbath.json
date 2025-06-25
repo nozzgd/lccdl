@@ -3,8 +3,8 @@
     "name": "Bloodbath",
     "author": "Riot",
     "creators": ["WeoWeoTeo", "Vermillion", "Michigun", "Evasium", "Crack", "ASonicMen", "Etzer", "Havok", "Ggb0y", "Riot"],
-    "verifier": "CurtaGD",
-    "verification": "https://youtu.be/WyC1VVjNG5A",
+    "verifier": "Drag0n43",
+    "verification": "https://youtu.be/A6xe4tKdx_c?si=PVEDWW0Vt7KdVh6P",
     "percentToQualify": "61",
     "password": "Free To Copy",
     "records": [
@@ -13,12 +13,7 @@
             "link": "https://www.youtube.com/watch?v=OFWKEF8p4yY",
             "percent": 99,
             "hz": 360
-        },
-        {
-            "user": "Drag0n43",
-            "link": "https://google.com/",
-            "percent": 100,
-            "hz": 120
-        }
+         }
     ]
 }
+
