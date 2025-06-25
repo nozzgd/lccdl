@@ -8,5 +8,11 @@
     "percentToQualify": "47",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "RainzyGD",
+            "link": "http://google.com",
+            "percent": 59,
+            "hz": 60
+        }
     ]
 }
